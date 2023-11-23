@@ -47,6 +47,10 @@ The following are details of new products based on the number of orders:
 
 ## 🔗 Links
 For complete visualization click here:
+
 ![tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)https://public.tableau.com/app/profile/nurul.ilahi.husnah/viz/ImprovingCofeeShop/Dashboard1
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurul-ilahi-husnah27/)
+
 
 
