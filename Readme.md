@@ -10,6 +10,7 @@ The available data includes:
 
 Utilized tools:
 - PostgreSQL
+- PowerBI
 - Tableau
 
 
@@ -32,6 +33,7 @@ The following are details of new products based on the number of orders:
 
 ![higher order by operational](https://github.com/NurulIlahiHusnah/Coffe_Shop_Transaction/assets/125198828/3d64af75-f2b7-48d5-8a48-4bc812df6317)
 
+# Dasboard Coffe Shop
 
 # Business Insight & Recommendation
 1. There is a significant difference between total orders and total sales, and this can be tentatively attributed to inadequate inventory. This situation may cause inconvenience for customers when placing orders. Therefore, improvement is needed by evaluating products with higher or lower order volumes to achieve an optimal balance in inventory.
