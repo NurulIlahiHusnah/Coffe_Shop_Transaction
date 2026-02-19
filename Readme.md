@@ -1,4 +1,4 @@
-# Improving Coffe Shop Transaction on New Product
+# Data Driven Product Launch Strategy for Coffee Shop Using Python & PowerBI
 A food and beverage (F&B) company is looking to enhance its overall revenue, focusing on a new product that was launched last April. The company's management seeks to assess the progress of this product and intends to make improvements to the product portfolio by identifying elements that need to be retained or eliminated. The objective of this evaluation is to effectively address warehouse stock issues and prevent potential losses for the company.
 
 The available data includes:
